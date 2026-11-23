@@ -107,7 +107,7 @@ Se desarrolló una aplicación web interactiva con **Streamlit**, organizada en 
 
 ### 📈 Resumen comercial
 
-![Resumen comercial]resumen1.gif)
+![Resumen comercial](resumen1.gif)
 
 ### 💰 Rentabilidad y stock
 
